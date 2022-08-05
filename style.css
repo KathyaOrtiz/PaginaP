@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(0, 0, 0);
+    height: 100%;
+
+}
+
+.navbar-brand {
+    color: rgb(255, 255, 255);
+    font-family: fantasy;
+    font-size: 30px;
+}
+.carousel-caption{
+    bottom:300px;
+}
+.carousel-caption h1{
+    font-size: 200px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 25px;
+    
+}
+
+
+.section-padding{
+    background-color: rgb(31, 31, 31);
+    align-items: center;
+}
+
+
+.about-text{
+    justify-content: center;
+    color:rgb(229, 229, 229)
+}
+
+.row{
+
+    justify-content: center;
+    align-items: center;
+    color:rgb(231, 231, 231)
+    
+
+
+}
+.card{
+    background-color:rgb(52, 52, 52);
+    color:rgb(231, 231, 231)
+}
+.site-footer{
+    height: 70px;
+    color: rgb(187, 187, 187);
+}
+
+
